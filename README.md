@@ -2,7 +2,7 @@
 Mock routing architecture replicating automated market maker (AMM) token swaps and slippage computations on Base L2 network layout.
 // ========================================================
 // EDIT THIS VARIABLE TO GENERATE A NEW PUBLIC COMMIT
-const BUILD_COUNT_TRIGGER = 6;
+const BUILD_COUNT_TRIGGER = 7;
 // ========================================================
 
 class BaseDexRouter {
